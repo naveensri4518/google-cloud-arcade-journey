@@ -26,4 +26,4 @@ This repository contains my Google Cloud Arcade learning journey, badges, screen
 
 ## 🔗 My Skills Boost Profile
 
-Add your profile link here
+(https://www.skills.google/profile/badges)
